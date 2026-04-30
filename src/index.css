@@ -80,7 +80,9 @@ img:not(.nav-logo) {
   width: 100%;
   display: block;
 }
-
+.nav-logo {
+  width: 200px;
+}
 h1,
 h2,
 h3,

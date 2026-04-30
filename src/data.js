@@ -22,19 +22,19 @@ export const services = [
     id: 1,
     icon: "fas fa-wallet fa-fw",
     title: "saving money",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elitAsperiores, officia",
+    text: " Get the best value for your trips with affordable options and smart deals.",
   },
   {
     id: 2,
     icon: "fas fa-tree fa-fw",
     title: "endless hiking",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elitAsperiores, officia",
+    text: " Explore scenic trails and breathtaking landscapes with unforgettable hiking adventures.",
   },
   {
     id: 3,
     icon: "fas fa-socks fa-fw",
     title: "effortless comfort",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elitAsperiores, officia",
+    text: " Enjoy a smooth and stress-free travel experience with every detail thoughtfully arranged.",
   },
 ];
 
@@ -43,10 +43,8 @@ export const tours = [
     id: 1,
     image: tour1,
     date: "august 26th, 2020",
-    title: "Tibet Adventure",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
+    title: "Trip to Tibet",
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
     location: "china",
     duration: 6,
     cost: 2100,
@@ -55,10 +53,8 @@ export const tours = [
     id: 2,
     image: tour2,
     date: "september 26th, 2020",
-    title: "Indonesian Adventure",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
+    title: "Indonesian Venture",
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
     location: "indonesia",
     duration: 11,
     cost: 2000,
@@ -67,11 +63,9 @@ export const tours = [
     id: 3,
     image: tour3,
     date: "november 29th, 2020",
-    title: "Explore Kenya",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
-    location: "kenya",
+    title: "Adventure in Honkong",
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
+    location: "honkong",
     duration: 8,
     cost: 3100,
   },
@@ -79,11 +73,9 @@ export const tours = [
     id: 4,
     image: tour4,
     date: "december 16th, 2020",
-    title: "Honkong Adventure",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
-    location: "honkong",
+    title: "Explore Kenya",
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
+    location: "kenya",
     duration: 20,
     cost: 5100,
   },
@@ -92,9 +84,7 @@ export const tours = [
     image: tour5,
     date: "january 16th, 2020",
     title: "African Wild",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
     location: "Africa",
     duration: 20,
     cost: 3100,
@@ -104,9 +94,7 @@ export const tours = [
     image: tour6,
     date: "april 1st, 2020",
     title: "Visit India",
-    info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque
-              vitae tempore voluptatum maxime reprehenderit eum quod
-              exercitationem fugit qui corporis`,
+    info: `Experience the rich culture, natural beauty, and unique traditions that make every country a destination worth exploring.`,
     location: "India",
     duration: 18,
     cost: 8100,
